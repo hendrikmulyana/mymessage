@@ -1,0 +1,53 @@
+#keclok {
+    font-family: "Courier New", Arial;
+    font-size: 15px;
+}
+#kecamatan {
+    font-family: "Courier New", Arial;
+    font-size: 15px;
+    padding: 10px;
+    left: 60px;
+}
+
+#right-panel {
+    font-size: 15px;
+    font-family: "Courier New",Arial;
+    line-height: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+#right-panel select, #right-panel input {
+    font-size: 15px;
+}
+#floating-panel {
+    position: absolute;
+    top: 10px;
+    left: 25%;
+    z-index: 5;
+    background-color: #fff;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Roboto','sans-serif';
+    line-height: 30px;
+    padding-left: 10px;
+}
+#right-panel select {
+    width: 100%;
+}
+
+#right-panel i {
+    font-size: 13px;
+}
+
+#right-panel {
+    width: 35%;
+    float: right;
+
+}
+#encoded-polyline {
+    height: 95px;
+    width: 100%;
+    font-family: "Courier New", Arial;
+    font-size: 13px;
+}
